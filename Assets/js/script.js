@@ -2,11 +2,8 @@
 function currentDay(){
     var todayDate = moment().format('MMMM Do YYYY, h:mm:ss a');
     var updatTime = setTimeout(function() {currentDay()}, 1000);
-    var addDateTime = $('#currentDay').append(todayDate); 
+    var addDateTime = $('#currentDay').text(todayDate); 
     addDateTime
-    
-
-    
     
 }
 currentDay();
