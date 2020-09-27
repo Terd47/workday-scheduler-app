@@ -3,3 +3,6 @@ This calendar application will allow the user to save daily events on an hourly 
 
 the app can be accessed at the address below
 https://terd47.github.io/workday-scheduler-app/.
+
+schedule img 
+./Assets/images/work-day-scheduler-app-img.png
