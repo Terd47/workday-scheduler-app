@@ -6,3 +6,4 @@ https://terd47.github.io/workday-scheduler-app/.
 
 schedule img 
 ./Assets/images/work-day-scheduler-app-img.png
+[](./Assets/images/work-day-schedule-app-img.png)
